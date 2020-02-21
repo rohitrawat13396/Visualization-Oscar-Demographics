@@ -1,0 +1,442 @@
+_unit_id,_golden,_unit_state,_trusted_judgments,birthplace:confidence,date_of_birth,year_of_birth,year_of_birth:confidence,race_ethnicity,race_ethnicity:confidence,religion,religion:confidence,sexual_orientation,sexual_orientation:confidence,year_of_award,year_of_award:confidence,award,movie,person
+670454525,FALSE,finalized,3,1,4-Nov-69,1969,1,White,1,Na,1,Straight,1,2014,1,Best Actor,Dallas Buyers Club,Matthew McConaughey
+670454603,FALSE,finalized,3,1,26-Dec-71,1971,1,White,1,Na,1,Straight,1,2014,1,Best Supporting Actor,Dallas Buyers Club,Jared Leto
+670454690,FALSE,finalized,3,1,14-May-69,1969,1,White,1,Na,1,Straight,1,2014,1,Best Actress,Blue Jasmine,Cate Blanchett
+670454768,FALSE,finalized,3,1,1-Mar-83,1983,1,Black,1,Na,1,Na,1,2014,1,Best Supporting Actress,12 Years a Slave,Lupita Nyong'o
+670454439,FALSE,finalized,3,1,23-Oct-54,1954,1,Asian,1,Na,1,Straight,1,2013,1,Best Director,Life of Pi,Ang Lee
+670454524,FALSE,finalized,3,1,29-Apr-57,1957,1,White,1,Na,1,Straight,1,2013,1,Best Actor,Lincoln,Daniel Day-Lewis
+670454602,FALSE,finalized,3,0.6571,4-Oct-56,1956,1,White,0.6571,Na,1,Straight,0.6571,2013,1,Best Supporting Actor,Django Unchained,Christoph Waltz
+670454689,FALSE,finalized,3,1,15-Aug-90,1990,1,White,1,Na,1,Na,1,2013,0.6667,Best Actress,Silver Linings Playbook,Jennifer Lawrence
+670454767,FALSE,finalized,3,1,12-Nov-82,1982,1,White,1,Christian,1,Straight,1,2013,1,Best Supporting Actress,Les Mis̩rables,Anne Hathaway
+670454438,FALSE,finalized,3,1,29-Mar-67,1967,1,White,1,Jewish,1,Straight,1,2012,1,Best Director,The Artist,Michel Hazanavicius
+670454523,FALSE,finalized,3,1,19-Jun-72,1972,1,White,1,Na,1,Straight,1,2012,1,Best Actor,The Artist,Jean Dujardin
+670454601,FALSE,finalized,3,1,13-Dec-29,1929,1,White,1,Na,1,Straight,1,2012,1,Best Supporting Actor,Beginning,Christopher Plummer
+670454688,FALSE,finalized,3,1,22-Jun-49,1949,1,White,1,Na,1,Straight,1,2012,1,Best Actress,The Iron Lady,Meryl Streep
+670454766,FALSE,finalized,3,1,25-May-72,1972,1,Black,1,Na,1,Na,1,2012,1,Best Supporting Actress,The Help,Octavia Spencer
+670454437,FALSE,finalized,3,1,1972,1905,1,White,1,Na,1,Na,1,2011,1,Best Director,The King's Speech,Tom Hooper
+670454522,FALSE,finalized,3,1,10-Sep-60,1960,1,White,1,Na,1,Straight,1,2011,1,Best Actor,The King's Speech,Colin Firth
+670454600,FALSE,finalized,3,1,30-Jan-74,1974,1,White,1,Na,1,Straight,1,2011,1,Best Supporting Actor,The Fighter,Christian Bale
+670454687,FALSE,finalized,3,1,9-Jun-81,1981,1,White,1,Jewish,1,Straight,1,2011,1,Best Actress,Black Swan,Natalie Portman
+670454765,FALSE,finalized,3,1,14-Sep-60,1960,1,White,1,Na,1,Straight,1,2011,1,Best Supporting Actress,The Fighter,Melissa Leo
+670454521,FALSE,finalized,3,1,4-Dec-49,1949,1,White,1,Lutheran,1,Straight,1,2010,1,Best Actor,Crazy Heart,Jeff Bridges
+670454599,FALSE,finalized,3,1,4-Oct-56,1956,1,White,1,Na,1,Straight,1,2010,1,Best Supporting Actor,Inglourious Basterds,Christoph Waltz
+670454686,FALSE,finalized,3,1,26-Jul-64,1964,1,White,1,Na,1,Straight,1,2010,1,Best Actress,The Blind Side,Sandra Bullock
+670454764,TRUE,golden,86,1,11-Dec-67,1967,0.9631,Black,1,Na,1,Straight,1,2010,1,Best Supporting Actress,Precious,Mo'Nique
+670945834,FALSE,finalized,3,1,11-Dec-67,1967,1,Black,1,Na,1,Straight,1,2010,1,Best Supporting Actress,Precious,Mo'Nique
+670454435,TRUE,golden,81,1,20-Oct-56,1956,1,White,1,Roman Catholic,0.9624,Straight,1,2009,0.9643,Best Director,Slumdog Millionaire,Danny Boyle
+670454436,FALSE,finalized,3,1,27-Nov-51,1951,1,White,1,Na,1,Straight,1,2009,1,Best Director,The Hurt Locker,Kathryn Bigelow
+670454520,FALSE,finalized,3,1,17-Aug-60,1960,1,White,1,Roman Catholic,1,Straight,1,2009,1,Best Actor,Milk,Sean Penn
+670454598,FALSE,finalized,3,1,4-Apr-79,1979,1,White,1,Na,1,Straight,1,2009,1,Best Supporting Actor,The Dark Knight,Heath Ledger
+670454685,FALSE,finalized,3,1,5-Oct-75,1975,1,White,1,Na,1,Straight,1,2009,1,Best Actress,The Reader,Kate Winslet
+670454763,FALSE,finalized,3,1,28-Apr-74,1974,1,Hispanic,1,Buddhist,1,Straight,1,2009,1,Best Supporting Actress,Vicky Cristina Barcelona,Penelope Cruz
+670946299,FALSE,finalized,3,1,20-Oct-56,1956,1,White,1,Roman Catholic,1,Straight,1,2009,1,Best Director,Slumdog Millionaire,Danny Boyle
+670454394,FALSE,finalized,3,1,29-Nov-54,1954,1,White,1,Jewish,1,Straight,1,2008,1,Best Director,No Country for Old Men,Joel Coen
+670454434,FALSE,finalized,3,1,21-Sep-57,1957,1,White,1,Jewish,1,Straight,1,2008,1,Best Director,No Country for Old Men,Ethan Coen
+670454519,FALSE,finalized,3,1,29-Apr-57,1957,1,White,1,Na,1,Straight,1,2008,1,Best Actor,There Will Be Blood,Daniel Day-Lewis
+670454597,FALSE,finalized,3,1,1-Mar-69,1969,1,Hispanic,1,Na,1,Straight,1,2008,1,Best Supporting Actor,No Country for Old Men,Javier Bardem
+670454684,FALSE,finalized,3,1,30-Sep-75,1975,1,White,1,Na,1,Straight,1,2008,1,Best Actress,The Passionate Life of Edith Piaf,Marion Cotillard
+670454433,FALSE,finalized,3,1,17-Nov-42,1942,1,White,1,Roman Catholic,1,Straight,1,2007,1,Best Director,The Departed,Martin Scorsese
+670454518,FALSE,finalized,3,1,15-Jul-61,1961,1,Black,1,Na,1,Straight,1,2007,1,Best Actor,The Last King of Scotland,Forest Whitaker
+670454596,FALSE,finalized,3,1,26-Mar-34,1934,1,White,1,Jewish,1,Straight,1,2007,1,Best Supporting Actor,Little Miss Sunshine,Alan Arkin
+670454683,FALSE,finalized,3,1,26-Jul-45,1945,1,White,1,Na,1,Straight,1,2007,1,Best Actress,The Queen,Helen Mirren
+670454761,FALSE,finalized,3,1,12-Sep-81,1981,1,Black,1,Baptist,1,Straight,1,2007,1,Best Supporting Actress,Dreamgirls,Jennifer Hudson
+670454762,FALSE,finalized,3,1,5-Nov-60,1960,1,White,1,Na,1,Straight,1,2007,1,Best Supporting Actress,Michael Clayton,Tilda Swinton
+670454432,FALSE,finalized,3,1,23-Oct-54,1954,1,Asian,1,Na,1,Straight,1,2006,1,Best Director,Brokeback Mountain,Ang Lee
+670454517,FALSE,finalized,3,1,23-Jul-67,1967,1,White,1,Na,1,Straight,1,2006,1,Best Actor,Capote,Philip Seymour Hoffman
+670454595,FALSE,finalized,3,1,6-May-61,1961,1,White,1,Na,1,Straight,1,2006,1,Best Supporting Actor,Syriana,George Clooney
+670454682,FALSE,finalized,3,1,22-Mar-76,1976,1,White,1,Na,1,Straight,1,2006,1,Best Actress,Walk the Line,Reese Witherspoon
+670454760,TRUE,golden,92,1,7-Mar-71,1971,1,White,1,Jewish,1,Straight,1,2006,1,Best Supporting Actress,The Constant Gardener,Rachel Weisz
+670946276,FALSE,finalized,3,1,7-Mar-71,1971,1,White,1,Jewish,1,Straight,1,2006,0.6857,Best Supporting Actress,The Constant Gardener,Rachel Weisz
+670454431,FALSE,finalized,3,1,31-May-30,1930,1,White,1,Na,1,Straight,1,2005,1,Best Director,Million Dollar Baby,Clint Eastwood
+670454516,FALSE,finalized,3,1,13-Dec-67,1967,1,Black,1,Baptist,1,Straight,1,2005,1,Best Actor,Ray,Jamie Foxx
+670454594,FALSE,finalized,3,1,1-Jun-37,1937,1,Black,1,Na,1,Straight,1,2005,1,Best Supporting Actor,Million Dollar Baby,Morgan Freeman
+670454681,TRUE,golden,85,1,30-Jul-74,1974,1,White,1,Na,1,Straight,1,2005,1,Best Actress,Million Dollar Baby,Hilary Swank
+670454759,FALSE,finalized,3,1,14-May-69,1969,1,White,1,Na,1,Straight,1,2005,1,Best Supporting Actress,The Aviator,Cate Blanchett
+670944948,FALSE,finalized,3,1,30-Jul-74,1974,1,White,1,Na,1,Straight,1,2005,1,Best Actress,Million Dollar Baby,Hilary Swank
+670945043,TRUE,golden,86,1,30-Jul-74,1974,1,White,1,Na,1,Straight,1,2005,1,Best Actress,Million Dollar Baby,Hilary Swank
+670454430,FALSE,finalized,3,1,31-Oct-61,1961,1,White,1,Na,1,Straight,1,2004,1,Best Director,The Lord of the Rings: Return of the King,Peter Jackson
+670454593,FALSE,finalized,3,1,16-Oct-58,1958,1,White,1,Roman Catholic,1,Straight,1,2004,1,Best Supporting Actor,Mystic River,Tim Robbins
+670454680,FALSE,finalized,3,1,7-Aug-75,1975,1,White,1,Na,1,Straight,1,2004,1,Best Actress,Monster,Charlize Theron
+670454758,FALSE,finalized,3,1,25-Apr-69,1969,1,White,1,Na,1,Straight,0.6667,2004,1,Best Supporting Actress,Cold Mountain,Ren̩e Zellweger
+670454429,FALSE,finalized,3,1,18-Aug-33,1933,1,White,1,See Note,0.3333,Straight,1,2003,1,Best Director,The Pianist,Roman Polanski
+670454514,FALSE,finalized,3,1,14-Apr-73,1973,1,White,1,Jewish,1,Straight,1,2003,1,Best Actor,The Pianist,Adrien Brody
+670454515,FALSE,finalized,3,1,17-Aug-60,1960,1,White,1,Roman Catholic,1,Straight,1,2003,1,Best Actor,Mystic River,Sean Penn
+670454592,FALSE,finalized,3,1,9-Jul-51,1951,1,White,1,Na,1,Straight,1,2003,1,Best Supporting Actor,Adaptation,Chris Cooper
+670454679,FALSE,finalized,3,1,20-Jun-67,1967,1,White,1,Roman Catholic,1,Straight,1,2003,1,Best Actress,The Hours,Nicole Kidman
+670454757,FALSE,finalized,3,1,25-Sep-69,1969,1,White,1,Roman Catholic,1,Straight,1,2003,1,Best Supporting Actress,Chicago,Catherine Zeta-Jones
+670454428,FALSE,finalized,3,1,1-Mar-54,1954,1,White,1,Na,1,Straight,1,2002,1,Best Director,A Beautiful Mind,Ron Howard
+670454513,FALSE,finalized,3,1,28-Dec-54,1954,1,Black,1,Protestant,1,Straight,1,2002,1,Best Actor,Training Day,Denzel Washington
+670454591,FALSE,finalized,3,1,24-May-49,1949,1,White,1,Na,1,Straight,1,2002,1,Best Supporting Actor,Iris,Jim Broadbent
+670454678,FALSE,finalized,3,1,14-Aug-66,1966,1,Multiracial,1,Na,1,Straight,1,2002,1,Best Actress,Monster's Ball,Halle Berry
+670454756,FALSE,finalized,3,1,12-Dec-70,1970,1,White,1,Jewish,1,Straight,1,2002,1,Best Supporting Actress,A Beautiful Mind,Jennifer Connelly
+670454427,FALSE,finalized,3,1,14-Jan-63,1963,1,White,1,Atheist,1,Straight,1,2001,1,Best Director,Traffic,Steven Soderbergh
+670454512,FALSE,finalized,3,1,7-Apr-64,1964,1,White,1,Na,0.6562,Straight,1,2001,1,Best Actor,Gladiator,Russell Crowe
+670454590,FALSE,finalized,3,1,19-Feb-67,1967,1,Hispanic,1,Na,1,Straight,1,2001,1,Best Supporting Actor,Traffic,Benicio Del Toro
+670454677,FALSE,finalized,3,1,28-Oct-67,1967,1,White,1,Hindu,1,Straight,1,2001,1,Best Actress,Erin Brockovich,Julia Roberts
+670454755,TRUE,golden,91,1,14-Aug-59,1959,1,White,1,Na,1,Straight,1,2001,0.9195,Best Supporting Actress,Pollock,Marcia Gay Harden
+670945895,FALSE,finalized,3,1,14-Aug-59,1959,1,White,1,Na,1,Straight,1,2001,1,Best Supporting Actress,Pollock,Marcia Gay Harden
+670454426,FALSE,finalized,3,1,1-Aug-65,1965,1,White,1,Na,1,Straight,1,2000,1,Best Director,American Beauty,Sam Mendes
+670454511,FALSE,finalized,3,1,26-Jul-59,1959,1,White,1,Na,1,Matter of Dispute,0.6667,2000,1,Best Actor,American Beauty,Kevin Spacey
+670454589,FALSE,finalized,3,1,14-Mar-33,1933,1,White,1,Na,1,Straight,1,2000,1,Best Supporting Actor,The Cider House Rules,Michael Caine
+670454676,FALSE,finalized,3,1,30-Jul-74,1974,1,White,1,Na,1,Straight,1,2000,1,Best Actress,Boys Don't Cry,Hilary Swank
+670454754,TRUE,golden,87,0.9593,4-Jun-75,1975,1,White,1,Buddhist,1,Bisexual,1,2000,1,Best Supporting Actress,"Girl, Interrupted",Angelina Jolie
+670944478,FALSE,finalized,3,1,4-Jun-75,1975,1,White,1,Buddhist,1,Bisexual,1,2000,1,Best Supporting Actress,"Girl, Interrupted",Angelina Jolie
+670454425,FALSE,finalized,3,1,18-Dec-46,1946,1,White,1,Jewish,1,Straight,1,1999,1,Best Director,Saving Private Ryan,Steven Spielberg
+670454510,FALSE,finalized,3,1,27-Oct-52,1952,1,White,1,Na,1,Straight,1,1999,1,Best Actor,Life is Beautiful,Roberto Benigni
+670454588,TRUE,golden,62,1,31-Aug-28,1928,1,White,1,Na,1,Straight,1,1999,1,Best Supporting Actor,Affliction,James Coburn
+670454675,TRUE,golden,91,1,27-Sep-72,1972,1,White,1,Jewish,1,Straight,1,1999,1,Best Actress,Shakespeare in Love,Gwyneth Paltrow
+670454753,FALSE,finalized,3,1,9-Dec-34,1934,1,White,1,Quaker,1,Straight,1,1999,1,Best Supporting Actress,Shakespeare in Love,Judi Dench
+670945693,FALSE,finalized,3,1,27-Sep-72,1972,1,White,1,Jewish,1,Straight,1,1999,1,Best Actress,Shakespeare in Love,Gwyneth Paltrow
+670964956,FALSE,finalized,3,1,31-Aug-28,1928,1,White,1,Na,1,Straight,1,1999,1,Best Supporting Actor,Affliction,James Coburn
+670454424,FALSE,finalized,3,1,16-Aug-54,1954,1,White,1,Atheist,0.6667,Straight,1,1998,1,Best Director,Titanic,James Cameron
+670454587,FALSE,finalized,3,1,21-Jul-51,1951,1,White,1,Anglican/episcopalian,1,Straight,1,1998,1,Best Supporting Actor,Good Will Hunting,Robin Williams
+670454674,FALSE,finalized,3,1,15-Jun-63,1963,1,White,1,Na,1,Straight,1,1998,1,Best Actress,As Good As It Gets,Helen Hunt
+670454752,FALSE,finalized,3,1,8-Dec-53,1953,1,White,1,Na,1,Straight,1,1998,1,Best Supporting Actress,L.A. Confidential,Kim Basinger
+670454423,FALSE,finalized,3,1,6-Jan-54,1954,1,White,1,Na,1,Straight,1,1997,1,Best Director,The English Patient,Anthony Minghella
+670454508,FALSE,finalized,3,1,6-Jul-51,1951,1,White,1,Na,1,Straight,1,1997,1,Best Actor,Shine,Geoffrey Rush
+670454509,FALSE,finalized,3,1,22-Apr-37,1937,1,White,1,Atheist,1,Straight,1,1997,1,Best Actor,As Good as It Gets,Jack Nicholson
+670454586,FALSE,finalized,3,1,2-Jan-68,1968,1,Black,1,Na,1,Straight,1,1997,1,Best Supporting Actor,Jerry Maguire,"Cuba Gooding, Jr."
+670454673,FALSE,finalized,3,1,23-Jun-57,1957,1,White,1,Disciples of Christ,1,Straight,1,1997,1,Best Actress,Fargo,Frances McDormand
+670454751,FALSE,finalized,3,1,9-Mar-64,1964,1,White,1,Na,1,Straight,1,1997,1,Best Supporting Actress,The English Patient,Juliette Binoche
+670454422,FALSE,finalized,3,1,3-Jan-56,1956,1,White,1,Roman Catholic,1,Straight,1,1996,1,Best Director,Braveheart,Mel Gibson
+670454507,FALSE,finalized,3,1,7-Jan-64,1964,1,White,1,Roman Catholic,1,Straight,1,1996,1,Best Actor,Leaving Las Vegas,Nicolas Cage
+670454585,FALSE,finalized,3,1,26-Jul-59,1959,1,White,1,Na,1,Matter of Dispute,1,1996,1,Best Supporting Actor,The Usual Suspects,Kevin Spacey
+670454672,FALSE,finalized,3,1,4-Oct-46,1946,1,White,1,Roman Catholic,1,Straight,1,1996,1,Best Actress,Dead Man Walking,Susan Sarandon
+670454750,FALSE,finalized,3,1,28-Sep-67,1967,1,White,1,Atheist,1,Straight,1,1996,1,Best Supporting Actress,Mighty Aphrodite,Mira Sorvino
+670454421,FALSE,finalized,3,1,14-May-52,1952,1,White,1,Roman Catholic,1,Straight,1,1995,0.6923,Best Director,Forrest Gump,Robert Zemeckis
+670454506,FALSE,finalized,3,1,9-Jul-56,1956,1,White,1,Born-Again Christian,1,Straight,1,1995,1,Best Actor,Forrest Gump,Tom Hanks
+670454584,FALSE,finalized,3,1,20-Jun-31,1931,1,White,1,Jewish,1,Straight,1,1995,1,Best Supporting Actor,Ed Wood,Martin Landau
+670454671,FALSE,finalized,3,1,20-Apr-49,1949,1,White,1,Na,1,Straight,1,1995,1,Best Actress,Blue Sky,Jessica Lange
+670454749,FALSE,finalized,3,1,28-Mar-48,1948,1,White,1,Na,1,Straight,1,1995,1,Best Supporting Actress,Bullets Over Broadway,Dianne Wiest
+670454420,FALSE,finalized,3,1,18-Dec-46,1946,1,White,1,Jewish,1,Straight,1,1994,1,Best Director,Schindler's List,Steven Spielberg
+670454505,TRUE,golden,84,1,9-Jul-56,1956,0.9648,White,1,Born-Again Christian,1,Straight,1,1994,1,Best Actor,Philadelphia,Tom Hanks
+670454583,FALSE,finalized,3,1,15-Sep-46,1946,1,White,1,Na,1,Straight,1,1994,1,Best Supporting Actor,The Fugitive,Tommy Lee Jones
+670454670,FALSE,finalized,3,1,20-Mar-58,1958,1,White,1,Na,1,Straight,1,1994,1,Best Actress,The Piano,Holly Hunter
+670454748,FALSE,finalized,3,1,24-Jul-82,1982,1,White,1,Na,1,Bisexual,1,1994,1,Best Supporting Actress,The Piano,Anna Paquin
+670944094,FALSE,finalized,3,1,9-Jul-56,1956,1,White,1,Born-Again Christian,1,Straight,1,1994,1,Best Actor,Philadelphia,Tom Hanks
+670454419,FALSE,finalized,3,1,31-May-30,1930,1,White,1,Na,1,Straight,1,1993,1,Best Director,Unforgiven,Clint Eastwood
+670454504,FALSE,finalized,3,1,25-Apr-40,1940,1,White,1,Roman Catholic,1,Straight,1,1993,1,Best Actor,Scent of a Woman,Al Pacino
+670454582,FALSE,finalized,3,1,30-Jan-30,1930,1,White,1,Na,1,Straight,1,1993,1,Best Supporting Actor,Unforgiven,Gene Hackman
+670454669,FALSE,finalized,3,1,15-Apr-59,1959,1,White,1,Na,1,Straight,1,1993,1,Best Actress,Howards End,Emma Thompson
+670454747,FALSE,finalized,3,1,4-Dec-64,1964,1,White,1,Na,1,Straight,1,1993,1,Best Supporting Actress,My Cousin Vinny,Marisa Tomei
+670454418,FALSE,finalized,3,1,22-Feb-44,1944,1,White,1,Na,1,Straight,1,1992,1,Best Director,The Silence of the Lambs,Jonathan Demme
+670454503,FALSE,finalized,3,1,31-Dec-37,1937,1,White,1,Na,1,Straight,1,1992,1,Best Actor,Silence of the Lambs,Anthony Hopkins
+670454581,FALSE,finalized,3,1,18-Feb-19,1919,1,White,1,Na,1,Straight,1,1992,1,Best Supporting Actor,City Slickers,Jack Palance
+670454668,FALSE,finalized,3,1,19-Nov-62,1962,1,White,1,Atheist,1,Lesbian,1,1992,1,Best Actress,The Silence of the Lambs,Jodie Foster
+670454746,FALSE,finalized,3,1,28-Feb-48,1948,1,Hispanic,1,Roman Catholic,1,Straight,1,1992,1,Best Supporting Actress,The Fisher King,Mercedes Ruehl
+670454417,FALSE,finalized,3,1,18-Jan-55,1955,1,White,1,Baptist,1,Straight,1,1991,1,Best Director,Dances with Wolves,Kevin Costner
+670454502,FALSE,finalized,3,1,19-Sep-48,1948,1,White,1,Na,1,Straight,1,1991,1,Best Actor,Reversal of Fortune,Jeremy Irons
+670454580,FALSE,finalized,3,1,9-Feb-43,1943,1,White,1,Na,1,Straight,1,1991,1,Best Supporting Actor,Good Fellas,Joe Pesci
+670454667,FALSE,finalized,3,1,28-Jun-48,1948,1,White,1,Na,1,Straight,1,1991,1,Best Actress,Misery,Kathy Bates
+670454745,FALSE,finalized,3,1,13-Nov-55,1955,1,Black,1,Atheist,1,Straight,1,1991,1,Best Supporting Actress,Ghost,Whoopi Goldberg
+670454413,FALSE,finalized,3,1,15-Sep-46,1946,1,White,1,Atheist,1,Straight,1,1990,0.3333,Best Director,Platoon,Oliver Stone
+670454416,FALSE,finalized,3,1,15-Sep-46,1946,1,White,1,Atheist,1,Straight,1,1990,1,Best Director,Born on the Fourth of July,Oliver Stone
+670454501,FALSE,finalized,3,1,29-Apr-57,1957,1,White,1,Na,1,Straight,1,1990,1,Best Actor,My Left Foot,Daniel Day-Lewis
+670454579,FALSE,finalized,3,1,28-Dec-54,1954,1,Black,1,Protestant,1,Straight,1,1990,1,Best Supporting Actor,Glory,Denzel Washington
+670454666,FALSE,finalized,3,1,7-Jun-09,1909,1,White,1,Na,1,Straight,1,1990,1,Best Actress,Driving Miss Daisy,Jessica Tandy
+670454744,FALSE,finalized,3,1,17-Feb-45,1945,1,White,1,Na,1,Straight,1,1990,1,Best Supporting Actress,My Left Foot,Brenda Fricker
+670454415,FALSE,finalized,3,1,6-Apr-42,1942,1,White,1,Jewish,0.6667,Straight,1,1989,1,Best Director,Rain Man,Barry Levinson
+670454500,FALSE,finalized,3,1,8-Aug-37,1937,1,White,1,Jewish,1,Straight,1,1989,1,Best Actor,Rainman,Dustin Hoffman
+670454578,FALSE,finalized,3,1,24-Oct-47,1947,1,White,1,Roman Catholic,1,Straight,1,1989,1,Best Supporting Actor,A Fish Called Wanda,Kevin Kline
+670454665,FALSE,finalized,3,1,19-Nov-62,1962,1,White,1,Atheist,1,Lesbian,1,1989,1,Best Actress,The Accused,Jodie Foster
+670454743,FALSE,finalized,3,1,21-Jan-56,1956,1,White,1,Congregationalist,1,Straight,1,1989,1,Best Supporting Actress,The Accidental Tourist,Geena Davis
+670454414,FALSE,finalized,3,1,16-Mar-41,1941,1,White,1,Na,1,Straight,1,1988,1,Best Director,The Last Emperor,Bernardo Bertolucci
+670454499,FALSE,finalized,3,1,25-Sep-44,1944,1,White,1,Jewish,1,Straight,1,1988,1,Best Actor,Wall Street,Michael Douglas
+670454577,FALSE,finalized,3,1,25-Aug-30,1930,1,White,1,Roman Catholic,1,Straight,1,1988,1,Best Supporting Actor,The Untouchables,Sean Connery
+670454664,FALSE,finalized,3,1,20-May-46,1946,1,White,1,Na,1,Bisexual,1,1988,1,Best Actress,Moonstruck,Cher
+670454742,FALSE,finalized,3,1,20-Jun-31,1931,1,White,1,Na,1,Straight,1,1988,1,Best Supporting Actress,Moonstruck,Olympia Dukakis
+670454498,FALSE,finalized,3,1,26-Jan-25,1925,1,White,1,Jewish,1,Straight,1,1987,1,Best Actor,The Color of Money,Paul Newman
+670454576,FALSE,finalized,3,1,14-Mar-33,1933,1,White,1,Na,1,Straight,1,1987,1,Best Supporting Actor,Hannah and Her Sisters,Michael Caine
+670454663,FALSE,finalized,3,1,24-Aug-65,1965,1,White,1,Jewish,1,Straight,1,1987,1,Best Actress,Children of a Lesser God,Marlee Matlin
+670454741,FALSE,finalized,3,1,28-Mar-48,1948,1,White,1,Na,1,Straight,1,1987,1,Best Supporting Actress,Hannah and Her Sisters,Dianne Wiest
+670454412,FALSE,finalized,3,1,1-Jul-34,1934,1,White,1,Jewish,1,Straight,1,1986,1,Best Director,Out of Africa,Sydney Pollack
+670454497,FALSE,finalized,3,1,20-Mar-50,1950,1,White,1,Lutheran,1,Straight,1,1986,1,Best Actor,Kiss of the Spider Woman,William Hurt
+670454575,FALSE,finalized,3,1,31-May-04,1904,1,White,1,Roman Catholic,1,Straight,1,1986,1,Best Supporting Actor,Cocoon,Don Ameche
+670454662,FALSE,finalized,3,1,22-Nov-24,1924,1,White,1,Na,1,Straight,1,1986,1,Best Actress,The Trip to Bountiful,Geraldine Page
+670454740,FALSE,finalized,3,1,8-Jul-51,1951,1,White,1,Na,1,Straight,1,1986,1,Best Supporting Actress,Prizzi's Honor,Anjelica Huston
+670454411,FALSE,finalized,3,1,18-Feb-32,1932,1,White,1,Na,1,Straight,1,1985,1,Best Director,Amadeus,Milos Forman
+670454496,FALSE,finalized,3,1,24-Oct-39,1939,1,Middle Eastern,1,Na,1,Straight,1,1985,1,Best Actor,Amadeus,F. Murray Abraham
+670454574,FALSE,finalized,3,1,22-Mar-40,1940,1,Asian,1,Buddhist,1,Straight,1,1985,1,Best Supporting Actor,The Killing Fields,Haing S. Ngor
+670454661,FALSE,finalized,3,1,6-Nov-46,1946,0.6667,White,1,Na,1,Straight,1,1985,1,Best Actress,Places in the Heart,Sally Field
+670454739,FALSE,finalized,3,1,22-Dec-07,1907,1,White,1,Agnostic,1,Straight,1,1985,1,Best Supporting Actress,A Passage to India,Peggy Ashcroft
+670454495,FALSE,finalized,3,1,5-Jan-31,1931,1,White,1,Na,1,Straight,1,1984,1,Best Actor,Tender Mercies,Robert Duvall
+670454573,FALSE,finalized,3,1,22-Apr-37,1937,1,White,1,Atheist,1,Straight,1,1984,1,Best Supporting Actor,Terms of Endearment,Jack Nicholson
+670454660,FALSE,finalized,3,1,24-Apr-34,1934,1,White,1,Baptist,1,Straight,1,1984,1,Best Actress,Terms of Endearment,Shirley MacLaine
+670454738,FALSE,finalized,3,1,2-Apr-45,1945,1,White,1,Na,1,Na,0.6857,1984,1,Best Supporting Actress,The Year of Living Dangerously,Linda Hunt
+670454410,FALSE,finalized,3,1,9-May-40,1940,1,White,1,Na,1,Straight,1,1983,0.6667,Best Director,Terms of Endearment,James L. Brooks
+670454494,FALSE,finalized,3,1,31-Dec-43,1943,1,Multiracial,1,Quaker,1,Straight,1,1983,1,Best Actor,Gandhi,Ben Kingsley
+670454572,FALSE,finalized,3,1,27-May-36,1936,1,Black,1,Na,1,Straight,1,1983,1,Best Supporting Actor,An Officer and a Gentleman,"Lou Gossett, Jr."
+670454659,FALSE,finalized,3,1,22-Jun-49,1949,1,White,1,Na,1,Straight,1,1983,1,Best Actress,Sophie's Choice,Meryl Streep
+670454737,FALSE,finalized,3,1,20-Apr-49,1949,1,White,1,Na,1,Straight,1,1983,1,Best Supporting Actress,Tootsie,Jessica Lange
+670454409,FALSE,finalized,3,1,29-Aug-23,1923,1,White,1,Na,1,Straight,1,1982,1,Best Director,Gandhi,Richard Attenborough
+670454493,FALSE,finalized,3,1,16-May-05,1905,1,White,1,Na,1,Straight,1,1982,1,Best Actor,On Golden Pond,Henry Fonda
+670454571,FALSE,finalized,3,0.6667,14-Apr-04,1904,1,White,1,Na,1,Gay,1,1982,1,Best Supporting Actor,Arthur,John Gielgud
+670454658,FALSE,finalized,3,1,12-May-07,1907,1,White,1,Atheist,1,Bisexual,1,1982,1,Best Actress,On Golden Pond,Katharine Hepburn
+670454736,FALSE,finalized,3,1,21-Jun-25,1925,1,White,1,Roman Catholic,1,Straight,1,1982,1,Best Supporting Actress,Reds,Maureen Stapleton
+670454408,FALSE,finalized,3,1,30-Mar-37,1937,1,White,1,Baptist,1,Straight,1,1981,1,Best Director,Reds,Warren Beatty
+670454492,FALSE,finalized,3,1,17-Aug-43,1943,1,White,1,Roman Catholic,1,Straight,1,1981,1,Best Actor,Raging Bull,Robert De Niro
+670454570,FALSE,finalized,3,1,16-Aug-60,1960,1,White,1,Na,1,Straight,1,1981,1,Best Supporting Actor,Oridnary People,Timothy Hutton
+670454657,FALSE,finalized,3,1,25-Dec-49,1949,1,White,1,Na,0.6897,Straight,1,1981,1,Best Actress,Coal Miner's Daughter,Sissy Spacek
+670454735,FALSE,finalized,3,1,8-Feb-53,1953,1,White,1,Na,1,Straight,1,1981,1,Best Supporting Actress,Melvin and Howard,Mary Steenburgen
+670454406,FALSE,finalized,3,1,29-Sep-32,1932,1,White,1,Na,1,Straight,1,1980,1,Best Director,Kramer vs. Kramer,Robert Benton
+670454407,FALSE,finalized,3,1,18-Aug-1936 [1],1936,0.6562,White,1,Na,1,Straight,1,1980,1,Best Director,Ordinary People,Robert Redford
+670454491,FALSE,finalized,3,1,8-Aug-37,1937,1,White,1,Jewish,1,Straight,1,1980,1,Best Actor,Kramer vs. Kramer,Dustin Hoffman
+670454569,FALSE,finalized,3,1,5-Apr-01,1901,1,White,1,Jewish,1,Straight,1,1980,1,Best Supporting Actor,Being There,Melvyn Douglas
+670454656,FALSE,finalized,3,1,6-Nov-46,1946,1,White,1,Na,1,Straight,1,1980,1,Best Actress,Norma Rae,Sally Field
+670454734,FALSE,finalized,3,1,22-Jun-49,1949,1,White,1,Na,1,Straight,1,1980,1,Best Supporting Actress,Kramer vs. Kramer,Meryl Streep
+670454405,TRUE,golden,75,1,3-Feb-39,1939,0.9597,White,1,Na,1,Straight,1,1979,0.7227,Best Director,The Deer Hunter,Michael Cimino
+670454490,FALSE,finalized,3,1,29-Dec-38,1938,1,White,1,Roman Catholic,1,Straight,1,1979,1,Best Actor,Coming Home,Jon Voight
+670454568,FALSE,finalized,3,1,31-Mar-43,1943,1,White,1,Na,1,Straight,1,1979,1,Best Supporting Actor,The Deer Hunter,Christopher Walken
+670454655,FALSE,finalized,3,1,21-Dec-37,1937,1,White,1,Born-Again Christian,1,Straight,1,1979,1,Best Actress,Coming Home,Jane Fonda
+670454733,FALSE,finalized,3,1,28-Dec-34,1934,1,White,1,Na,1,Straight,1,1979,1,Best Supporting Actress,California Suite,Maggie Smith
+670944168,FALSE,finalized,3,1,3-Feb-39,1939,1,White,1,Na,1,Straight,1,1979,0.6667,Best Director,The Deer Hunter,Michael Cimino
+670454404,FALSE,finalized,3,1,1-Dec-35,1935,1,White,1,Jewish,1,Straight,1,1978,1,Best Director,Annie Hall,Woody Allen
+670454489,FALSE,finalized,3,1,29-Oct-47,1947,1,White,1,Jewish,1,Straight,1,1978,1,Best Actor,The Goodbye Girl,Richard Dreyfuss
+670454567,FALSE,finalized,3,1,26-Jul-22,1922,1,White,1,Na,1,Straight,1,1978,1,Best Supporting Actor,Julia,Jason Robards
+670454654,FALSE,finalized,3,1,5-Jan-46,1946,1,White,1,Atheist,1,Straight,1,1978,1,Best Actress,Annie Hall,Diane Keaton
+670454732,FALSE,finalized,3,1,30-Jan-37,1937,1,White,1,Na,1,Straight,1,1978,1,Best Supporting Actress,Julia,Vanessa Redgrave
+670454488,FALSE,finalized,3,1,28-Sep-16,1916,1,White,1,Na,1,Straight,1,1977,1,Best Actor,Network,Peter Finch
+670454566,TRUE,golden,91,1,26-Jul-22,1922,0.9596,White,1,Na,1,Straight,1,1977,1,Best Supporting Actor,All the President's Men,Jason Robards
+670454653,TRUE,golden,91,1,14-Jan-41,1941,1,White,1,Roman Catholic,1,Straight,0.9599,1977,1,Best Actress,Network,Faye Dunaway
+670454731,FALSE,finalized,3,1,2-Aug-14,1914,1,White,1,Na,1,Straight,1,1977,1,Best Supporting Actress,Network,Beatrice Straight
+670944674,FALSE,finalized,3,1,14-Jan-41,1941,1,White,1,Roman Catholic,1,Straight,1,1977,1,Best Actress,Network,Faye Dunaway
+670964912,FALSE,finalized,3,1,26-Jul-22,1922,1,White,1,Na,1,Straight,1,1977,1,Best Supporting Actor,All the President's Men,Jason Robards
+670454402,FALSE,finalized,3,1,18-Feb-32,1932,1,White,1,Na,1,Straight,1,1976,1,Best Director,One Flew over the Cuckoo's Nest,Milos Forman
+670454403,FALSE,finalized,3,1,21-Dec-35,1935,1,White,1,Na,1,Straight,1,1976,0.6667,Best Director,Rocky,John G. Avildsen
+670454487,FALSE,finalized,3,1,22-Apr-37,1937,1,White,1,Atheist,1,Straight,1,1976,1,Best Actor,One Flew Over the Cuckoo's Nest,Jack Nicholson
+670454565,FALSE,finalized,3,1,1896,1896,1,White,1,Jewish,1,Straight,1,1976,1,Best Supporting Actor,The Sunshine Boys,George Burns
+670454652,FALSE,finalized,3,1,22-Jul-34,1934,1,White,1,Na,1,Straight,1,1976,1,Best Actress,One Flew Over the Cuckoo's Nest,Louise Fletcher
+670454730,TRUE,golden,87,1,31-Oct-27,1927,1,White,0.9594,Jewish,1,Straight,1,1976,1,Best Supporting Actress,Shampoo,Lee Grant
+670944543,FALSE,finalized,3,1,31-Oct-27,1927,1,White,1,Jewish,1,Straight,1,1976,1,Best Supporting Actress,Shampoo,Lee Grant
+670454401,FALSE,finalized,3,1,7-Apr-39,1939,1,White,1,Na,1,Straight,1,1975,1,Best Director,The Godfather Part II,Francis Ford Coppola
+670454486,FALSE,finalized,3,1,4-Nov-18,1918,1,White,1,Na,1,Straight,1,1975,1,Best Actor,Harry and Tonto,Art Carney
+670454564,FALSE,finalized,3,1,17-Aug-43,1943,1,White,1,Roman Catholic,1,Straight,1,1975,1,Best Supporting Actor,The Godfather Part II,Robert De Niro
+670454651,FALSE,finalized,3,1,7-Dec-32,1932,1,White,1,Sufism,0.3333,Straight,1,1975,1,Best Actress,Alice Doesn't Live Here Anymore,Ellen Burstyn
+670454729,FALSE,finalized,3,1,29-Aug-15,1915,1,White,1,Na,1,Straight,1,1975,1,Best Supporting Actress,Murder on the Orient Express,Ingrid Bergman
+670454485,FALSE,finalized,3,1,8-Feb-25,1925,1,White,1,Roman Catholic,1,Straight,1,1974,1,Best Actor,Save the Tiger,Jack Lemmon
+670454563,FALSE,finalized,3,1,22-Sep-02,1902,1,White,1,Na,1,Straight,0.6667,1974,1,Best Supporting Actor,The Paper Chase,John Houseman
+670454650,FALSE,finalized,3,1,9-May-36,1936,1,White,1,Na,1,Straight,1,1974,1,Best Actress,A Touch of Class,Glenda Jackson
+670454728,FALSE,finalized,3,1,5-Nov-63,1963,1,White,1,Na,1,Straight,1,1974,1,Best Supporting Actress,Paper Moon,Tatum O'Neal
+670454399,FALSE,finalized,3,1,23-Jun-27,1927,1,White,1,Na,1,Straight,1,1973,1,Best Director,Cabaret,Bob Fosse
+670454400,FALSE,finalized,3,1,20-Dec-21,1921,1,White,1,Na,1,Straight,1,1973,1,Best Director,The Sting,George Roy Hill
+670454484,FALSE,finalized,3,1,3-Apr-24,1924,1,White,1,Deist,1,Bisexual,0.6667,1973,1,Best Actor,The Godfather,Marlon Brando
+670454562,FALSE,finalized,3,1,11-Apr-32,1932,1,White,1,Jewish,1,Gay,1,1973,1,Best Supporting Actor,Cabaret,Joel Grey
+670454649,FALSE,finalized,3,1,12-Mar-46,1946,1,White,1,Na,1,Na,1,1973,1,Best Actress,Cabaret,Liza Minnelli
+670454727,FALSE,finalized,3,1,29-Mar-19,1919,0.6667,White,1,Na,1,Straight,1,1973,1,Best Supporting Actress,Butterflies Are Free,Eileen Heckart
+670454398,FALSE,finalized,3,1,29-Aug-35,1935,1,White,1,Jewish,1,Straight,1,1972,1,Best Director,The French Connection,William Friedkin
+670454483,FALSE,finalized,3,1,30-Jan-30,1930,1,White,1,Na,1,Straight,1,1972,1,Best Actor,The French Connection,Gene Hackman
+670454561,FALSE,finalized,3,1,13-Jun-18,1918,1,White,1,Na,1,Straight,1,1972,1,Best Supporting Actor,The Last Picture Show,Ben Johnson
+670454648,FALSE,finalized,3,1,21-Dec-37,1937,1,White,1,Born-Again Christian,1,Straight,1,1972,1,Best Actress,Klute,Jane Fonda
+670454726,FALSE,finalized,3,0.6667,30-Apr-26,1926,1,White,1,Na,1,Straight,1,1972,1,Best Supporting Actress,The Last Picture Show,Cloris Leachman
+670454482,FALSE,finalized,3,1,18-Oct-27,1927,1,White,1,Na,1,Straight,1,1971,1,Best Actor,Patton,George C. Scott
+670454560,FALSE,finalized,3,1,22-Feb-08,1908,1,White,1,Na,1,Straight,1,1971,1,Best Supporting Actor,Ryan's Daughter,John Mills
+670454647,FALSE,finalized,3,1,9-May-36,1936,1,White,1,Na,1,Straight,1,1971,1,Best Actress,Women in Love,Glenda Jackson
+670454725,FALSE,finalized,3,1,10-Oct-00,1900,1,White,1,Na,1,Straight,1,1971,1,Best Supporting Actress,Airport,Helen Hayes
+670454397,FALSE,finalized,3,1,30-May-20,1920,1,White,1,Na,1,Straight,1,1970,1,Best Director,Patton,Franklin J. Schaffner
+670454481,FALSE,finalized,3,1,26-May-07,1907,1,White,1,Roman Catholic,1,Straight,1,1970,1,Best Actor,True Grit,John Wayne
+670454559,FALSE,finalized,3,1,4-Nov-13,1913,1,White,1,Na,1,Straight,1,1970,1,Best Supporting Actor,"They Shoot Horses, Don't They?",Gig Young
+670454646,TRUE,golden,89,1,28-Dec-34,1934,1,White,1,Na,1,Straight,1,1970,1,Best Actress,The Prime of Miss Jean Brodie,Maggie Smith
+670454724,FALSE,finalized,3,1,21-Nov-45,1945,1,White,1,Buddhist,1,Straight,1,1970,1,Best Supporting Actress,Cactus Flower,Goldie Hawn
+670946199,FALSE,finalized,3,1,28-Dec-34,1934,1,White,1,Na,1,Straight,1,1970,1,Best Actress,The Prime of Miss Jean Brodie,Maggie Smith
+670454395,FALSE,finalized,3,1,30-Dec-06,1906,1,White,1,Na,1,Straight,1,1969,1,Best Director,Oliver!,Carol Reed
+670454396,FALSE,finalized,3,1,16-Feb-26,1926,1,White,1,Na,1,Gay,1,1969,1,Best Director,Midnight Cowboy,John Schlesinger
+670454480,FALSE,finalized,3,1,9-Sep-23,1923,1,White,1,Na,1,Straight,1,1969,1,Best Actor,Charly,Cliff Robertson
+670454558,TRUE,golden,84,0.9595,16-Jun-07,1907,1,White,1,Na,1,Na,1,1969,0.9646,Best Supporting Actor,The Subject Was Roses,Jack Albertson
+670454644,FALSE,finalized,3,1,24-Apr-42,1942,1,White,1,Jewish,1,Straight,1,1969,0.6897,Best Actress,Funny Girl,Barbra Streisand
+670454645,FALSE,finalized,3,1,12-May-07,1907,1,White,1,Atheist,1,Bisexual,1,1969,1,Best Actress,The Lion in Winter,Katharine Hepburn
+670454723,FALSE,finalized,3,1,1896,1896,1,White,1,Na,1,Straight,1,1969,1,Best Supporting Actress,Rosemary's Baby,Ruth Gordon
+670945790,FALSE,finalized,3,1,16-Jun-07,1907,1,White,1,Na,1,Na,1,1969,1,Best Supporting Actor,The Subject Was Roses,Jack Albertson
+670454393,FALSE,finalized,3,1,6-Nov-31,1931,1,White,1,Jewish,1,Straight,1,1968,1,Best Director,The Graduate,Mike Nichols
+670454479,FALSE,finalized,3,1,14-Apr-25,1925,1,White,1,Lutheran,1,Straight,1,1968,1,Best Actor,In the Heat of the Night,Rod Steiger
+670454557,FALSE,finalized,3,1,18-Feb-25,1925,1,White,1,Na,1,Straight,1,1968,1,Best Supporting Actor,Cool Hand Luke,George Kennedy
+670454643,FALSE,finalized,3,1,12-May-07,1907,1,White,1,Atheist,1,Bisexual,1,1968,1,Best Actress,Guess Who's Coming to Dinner,Katharine Hepburn
+670454722,FALSE,finalized,3,1,20-Nov-27,1927,1,White,1,Na,1,Straight,1,1968,1,Best Supporting Actress,Bonnie and Clyde,Estelle Parsons
+670454392,FALSE,finalized,3,1,29-Apr-07,1907,1,White,1,Jewish,1,Straight,1,1967,1,Best Director,A Man for All Seasons,Fred Zinnemann
+670454478,FALSE,finalized,3,1,21-Jan-22,1922,1,White,1,Na,1,Straight,1,1967,1,Best Actor,A Man For All Seasons,Paul Scofield
+670454556,FALSE,finalized,3,1,1-Oct-20,1920,1,White,1,Jewish,1,Straight,1,1967,1,Best Supporting Actor,The Fortune Cookie,Walter Matthau
+670454642,TRUE,golden,86,1,27-Feb-32,1932,1,White,1,Jewish,1,Straight,1,1967,1,Best Actress,Who's Afraid of Virginia Woolf?,Elizabeth Taylor
+670454721,FALSE,finalized,3,0.6667,27-Apr-37,1937,1,White,1,Na,1,Bisexual,1,1967,1,Best Supporting Actress,Who's Afraid of Virginia Woolf?,Sandy Dennis
+670944920,FALSE,finalized,3,1,27-Feb-32,1932,1,White,1,Jewish,1,Straight,1,1967,1,Best Actress,Who's Afraid of Virginia Woolf?,Elizabeth Taylor
+670454391,FALSE,finalized,3,1,10-Sep-14,1914,1,White,1,Na,1,Straight,1,1966,1,Best Director,The Sound of Music,Robert Wise
+670454477,FALSE,finalized,3,1,19-Feb-24,1924,1,White,1,Na,1,Straight,1,1966,1,Best Actor,Cat Ballou,Lee Marvin
+670454555,FALSE,finalized,3,1,4-Nov-19,1919,1,White,1,Na,1,Straight,1,1966,1,Best Supporting Actor,A Thousand Clowns,Martin Balsam
+670454641,FALSE,finalized,3,1,14-Apr-41,1941,1,White,1,Na,1,Straight,1,1966,1,Best Actress,Darling,Julie Christie
+670454720,FALSE,finalized,3,1,18-Aug-20,1920,1,White,1,Jewish,1,Straight,1,1966,1,Best Supporting Actress,A Patch of Blue,Shelley Winters
+670454390,FALSE,finalized,3,1,1899,1899,1,White,1,Na,0.6571,Gay,0.6571,1965,1,Best Director,My Fair Lady,George Cukor
+670454476,FALSE,finalized,3,1,5-Mar-08,1908,1,White,1,Na,1,Straight,1,1965,1,Best Actor,My Fair Lady,Rex Harrison
+670454554,FALSE,finalized,3,1,16-Apr-21,1921,1,White,1,Na,1,Straight,1,1965,1,Best Supporting Actor,Topkapi,Peter Ustinov
+670454640,FALSE,finalized,3,1,1-Oct-35,1935,1,White,1,Na,1,Straight,1,1965,1,Best Actress,Mary Poppins,Julie Andrews
+670454719,FALSE,finalized,3,1,9-Oct-18,1918,1,White,1,Na,1,Straight,1,1965,1,Best Supporting Actress,Zorba the Greek,Lila Kedrova
+670454389,FALSE,finalized,3,1,5-Jun-28,1928,1,White,1,Na,1,Bisexual,1,1964,1,Best Director,Tom Jones,Tony Richardson
+670454475,FALSE,finalized,3,1,20-Feb-27,1927,1,Black,1,Deist,1,Straight,1,1964,1,Best Actor,Lilies of the Field,Sidney Poitier
+670454553,FALSE,finalized,3,1,5-Apr-01,1901,1,White,1,Jewish,1,Straight,1,1964,1,Best Supporting Actor,Hud,Melvyn Douglas
+670454639,FALSE,finalized,3,1,20-Jan-26,1926,1,White,1,Roman Catholic,1,Straight,1,1964,1,Best Actress,Hud,Patricia Neal
+670454718,FALSE,finalized,3,1,1892,1892,1,White,1,Na,1,Straight,1,1964,1,Best Supporting Actress,the V.I.P.s,Margaret Rutherford
+670454388,FALSE,finalized,3,1,25-Mar-08,1908,1,White,1,Na,1,Straight,1,1963,1,Best Director,Lawrence of Arabia,David Lean
+670454474,FALSE,finalized,3,1,5-Apr-16,1916,1,White,1,Roman Catholic,1,Straight,1,1963,1,Best Actor,To Kill a Mockingbird,Gregory Peck
+670454552,FALSE,finalized,3,1,25-Mar-01,1901,1,White,1,Na,1,Straight,1,1963,1,Best Supporting Actor,Sweet Bird of Youth,"Ed Begley, Sr."
+670454638,FALSE,finalized,3,1,17-Sep-31,1931,1,White,1,Roman Catholic,1,Straight,1,1963,1,Best Actress,The Miracle Worker,Anne Bancroft
+670454717,FALSE,finalized,3,1,14-Dec-46,1946,1,White,1,Roman Catholic,1,Straight,1,1963,1,Best Supporting Actress,The Miracle Worker,Patty Duke
+670454370,FALSE,finalized,3,1,11-Oct-18,1918,1,White,1,Jewish,1,Gay,1,1962,1,Best Director,West Side Story,Jerome Robbins
+670454473,FALSE,finalized,3,1,8-Dec-30,1930,1,White,1,Na,1,Straight,1,1962,1,Best Actor,Judgement at Nuremberg,Maximilian Schell
+670454551,FALSE,finalized,3,1,16-Sep-34,1934,1,White,1,Na,1,Gay,1,1962,1,Best Supporting Actor,West Side Story,George Chakiris
+670454637,FALSE,finalized,3,1,20-Sep-34,1934,1,White,1,Roman Catholic,1,Straight,1,1962,1,Best Actress,Two Women,Sophia Loren
+670454716,FALSE,finalized,3,1,11-Dec-31,1931,1,Hispanic,1,Na,1,Straight,1,1962,1,Best Supporting Actress,West Side Story,Rita Moreno
+670454386,TRUE,golden,87,1,22-Jun-06,1906,1,White,1,Jewish,0.963,Straight,1,1961,1,Best Director,The Apartment,Billy Wilder
+670454387,FALSE,finalized,3,1,10-Sep-14,1914,1,White,1,Na,1,Straight,1,1961,0.6667,Best Director,West Side Story,Robert Wise
+670454472,FALSE,finalized,3,1,2-Nov-13,1913,1,White,1,Protestant,1,Straight,1,1961,1,Best Actor,Elmer Gantry,Burt Lancaster
+670454550,FALSE,finalized,3,1,16-Apr-21,1921,1,White,1,Na,1,Straight,1,1961,1,Best Supporting Actor,Spartacus,Peter Ustinov
+670454636,FALSE,finalized,3,1,27-Feb-32,1932,1,White,1,Jewish,1,Straight,1,1961,1,Best Actress,Butterfield 8,Elizabeth Taylor
+670454715,FALSE,finalized,3,1,31-Mar-34,1934,1,White,1,Methodist,1,Straight,1,1961,1,Best Supporting Actress,Elmer Gantry,Shirley Jones
+670927629,FALSE,finalized,3,1,22-Jun-06,1906,1,White,1,Jewish,1,Straight,1,1961,1,Best Director,The Apartment,Billy Wilder
+670454385,FALSE,finalized,3,1,1-Jul-02,1902,1,White,1,Na,1,Straight,1,1960,1,Best Director,Ben-Hur,William Wyler
+670454471,FALSE,finalized,3,1,4-Oct-23,1923,1,White,1,Protestant,1,Straight,1,1960,1,Best Actor,Ben-hur,Charlton Heston
+670454549,FALSE,finalized,3,1,30-May-12,1912,1,White,1,Na,1,Na,1,1960,1,Best Supporting Actor,Ben-Hur,Hugh Griffith
+670454635,FALSE,finalized,3,1,25-Mar-21,1921,1,White,1,Na,1,Straight,1,1960,1,Best Actress,Room at the Top,Simone Signoret
+670454714,FALSE,finalized,3,1,18-Aug-20,1920,1,White,1,Jewish,1,Straight,1,1960,1,Best Supporting Actress,The Diary of Anne Frank,Shelley Winters
+670454384,FALSE,finalized,3,1,28-Feb-03,1903,1,White,1,Na,1,Bisexual,1,1959,1,Best Director,Gigi,Vincente Minnelli
+670454470,FALSE,finalized,3,1,1-Mar-09,1909,1,White,1,Na,1,Straight,1,1959,1,Best Actor,Separate Tables,David Niven
+670454548,FALSE,finalized,3,1,14-Jun-09,1909,1,White,1,Na,1,Straight,1,1959,1,Best Supporting Actor,The Big Country,Burl Ives
+670454634,FALSE,finalized,3,1,30-Jun-18,1918,1,White,1,Roman Catholic,1,Straight,1,1959,1,Best Actress,I Want To Live!,Susan Hayward
+670454713,FALSE,finalized,3,1,15-Aug-12,1912,1,White,1,Na,1,Straight,1,1959,1,Best Supporting Actress,Separate Tables,Wendy Hiller
+670454383,FALSE,finalized,3,0.6667,25-Mar-08,1908,1,White,1,Na,1,Straight,0.6667,1958,1,Best Director,The Bridge on the River Kwai,David Lean
+670454469,FALSE,finalized,3,1,2-Apr-14,1914,1,White,1,Roman Catholic,1,Bisexual,1,1958,1,Best Actor,The Bridge on the River Kwai,Alec Guinness
+670454547,FALSE,finalized,3,1,5-Feb-19,1919,1,White,1,Jewish,1,Straight,1,1958,1,Best Supporting Actor,Sayonara,Red Buttons
+670454633,TRUE,golden,75,1,27-Feb-30,1930,1,White,1,Na,1,Straight,1,1958,1,Best Actress,The Three Faces of Eve,Joanne Woodward
+670454712,FALSE,finalized,3,1,3-Apr-29,1929,1,Asian,1,Na,1,Straight,1,1958,1,Best Supporting Actress,Sayonara,Miyoshi Umeki
+670944822,FALSE,finalized,3,1,27-Feb-30,1930,1,White,1,Na,1,Straight,1,1958,1,Best Actress,The Three Faces of Eve,Joanne Woodward
+670454382,FALSE,finalized,3,1,18-Dec-04,1904,1,White,1,Na,1,Straight,1,1957,1,Best Director,Giant,George Stevens
+670454468,FALSE,finalized,3,1,11-Jul-20,1920,1,White,1,Na,1,Straight,1,1957,1,Best Actor,The King and I,Yul Brynner
+670454546,FALSE,finalized,3,1,21-Apr-15,1915,1,Hispanic,1,Na,1,Straight,1,1957,1,Best Supporting Actor,Lust for Life,Anthony Quinn
+670454632,FALSE,finalized,3,1,29-Aug-15,1915,1,White,1,Na,1,Straight,1,1957,1,Best Actress,Anastasia,Ingrid Bergman
+670454711,FALSE,finalized,3,1,30-Jan-25,1925,1,White,1,Na,1,Straight,1,1957,1,Best Supporting Actress,Written on the Wind,Dorothy Malone
+670454381,FALSE,finalized,3,1,30-Jan-20,1920,1,White,1,Presbyterian,1,Straight,1,1956,1,Best Director,Marty,Delbert Mann
+670454467,FALSE,finalized,3,1,24-Jan-17,1917,1,White,1,Na,1,Straight,1,1956,1,Best Actor,Marty,Ernest Borgnine
+670454545,FALSE,finalized,3,1,8-Feb-25,1925,1,White,1,Roman Catholic,1,Straight,1,1956,1,Best Supporting Actor,Mister Roberts,Jack Lemmon
+670454631,FALSE,finalized,3,1,7-Mar-08,1908,1,White,1,Na,1,Straight,1,1956,1,Best Actress,The Rose Tattoo,Anna Magnani
+670454710,FALSE,finalized,3,1,30-Dec-14,1914,1,White,1,Na,1,Straight,1,1956,1,Best Supporting Actress,East of Eden,Jo Van Fleet
+670454380,FALSE,finalized,3,1,7-Sep-09,1909,1,White,1,Na,1,Straight,1,1955,1,Best Director,On the Waterfront,Elia Kazan
+670454466,FALSE,finalized,3,1,3-Apr-24,1924,1,White,1,Deist,1,Bisexual,1,1955,1,Best Actor,On the Waterfront,Marlon Brando
+670454544,FALSE,finalized,3,1,10-Sep-15,1915,1,White,1,Roman Catholic,1,Straight,1,1955,1,Best Supporting Actor,The Barefoot Contessa,Edmond O'Brien
+670454630,FALSE,finalized,3,1,12-Nov-29,1929,1,White,1,Roman Catholic,1,Straight,1,1955,1,Best Actress,The Country Girl,Grace Kelly
+670454709,FALSE,finalized,3,1,4-Jul-24,1924,1,White,1,Na,1,Straight,1,1955,1,Best Supporting Actress,On the Waterfront,Eva Marie Saint
+670454379,FALSE,finalized,3,1,29-Apr-07,1907,1,White,1,Jewish,1,Straight,1,1954,1,Best Director,From Here to Eternity,Fred Zinnemann
+670454465,FALSE,finalized,3,1,17-Apr-18,1918,1,White,1,Na,1,Straight,1,1954,1,Best Actor,Stalag 17,William Holden
+670454543,FALSE,finalized,3,1,12-Dec-15,1915,1,White,1,Na,1,Straight,1,1954,1,Best Supporting Actor,From Here to Eternity,Frank Sinatra
+670454629,FALSE,finalized,3,1,4-May-29,1929,1,White,1,Christian Science,1,Straight,1,1954,1,Best Actress,Roman Holiday,Audrey Hepburn
+670454708,FALSE,finalized,3,1,27-Jan-21,1921,1,White,1,Na,1,Straight,1,1954,1,Best Supporting Actress,From Here to Eternity,Donna Reed
+670454378,FALSE,finalized,3,1,1894,1894,1,White,1,Roman Catholic,1,Bisexual,1,1953,1,Best Director,The Quiet Man,John Ford
+670454464,TRUE,golden,95,1,7-May-01,1901,1,White,1,Roman Catholic,1,Straight,1,1953,0.9642,Best Actor,High Noon,Gary Cooper
+670454542,FALSE,finalized,3,1,21-Apr-15,1915,1,Hispanic,1,Na,1,Straight,1,1953,1,Best Supporting Actor,Viva Zapata!,Anthony Quinn
+670454628,FALSE,finalized,3,1,1898,1898,1,White,1,Na,1,Straight,1,1953,1,Best Actress,"Come Back, Little Sheba",Shirley Booth
+670454707,FALSE,finalized,3,1,28-Nov-23,1923,1,White,1,Na,1,Straight,1,1953,1,Best Supporting Actress,The Bad and the Beautiful,Gloria Grahame
+670944835,FALSE,finalized,3,1,7-May-01,1901,1,White,1,Roman Catholic,1,Straight,1,1953,1,Best Actor,High Noon,Gary Cooper
+670454377,FALSE,finalized,3,1,18-Dec-04,1904,1,White,1,Na,1,Straight,1,1952,1,Best Director,A Place in the Sun,George Stevens
+670454463,FALSE,finalized,3,1,1899,1899,1,White,1,Na,1,Straight,1,1952,1,Best Actor,The Africa Queen,Humphrey Bogart
+670454541,FALSE,finalized,3,1,22-Mar-12,1912,1,White,1,Na,1,Straight,1,1952,1,Best Supporting Actor,A Streetcar Named Desire,Karl Malden
+670454627,FALSE,finalized,3,1,5-Nov-13,1913,1,White,1,Roman Catholic,1,Straight,1,1952,1,Best Actress,A Streetcar Named Desire,Vivien Leigh
+670454706,FALSE,finalized,3,1,12-Nov-22,1922,1,White,1,Na,0.6897,Straight,1,1952,1,Best Supporting Actress,A Streetcar Named Desire,Kim Hunter
+670454376,FALSE,finalized,3,1,11-Feb-09,1909,1,White,1,Jewish,1,Straight,1,1951,1,Best Director,All About Eve,Joseph L. Mankiewicz
+670454462,FALSE,finalized,3,1,8-Jan-09,1909,1,Hispanic,1,Na,1,Straight,1,1951,1,Best Actor,Cyrano de Bergerac,Jose Ferrer
+670454540,FALSE,finalized,3,1,3-Jul-06,1906,1,White,1,Na,1,Straight,1,1951,1,Best Supporting Actor,All About Eve,George Sanders
+670454626,FALSE,finalized,3,1,21-Jun-21,1921,1,White,1,Na,1,Straight,1,1951,1,Best Actress,Born Yesterday,Judy Holliday
+670454705,FALSE,finalized,3,1,1886,1886,1,White,1,Na,1,Straight,1,1951,1,Best Supporting Actress,Harvey,Josephine Hull
+670454375,FALSE,finalized,3,1,11-Feb-09,1909,1,White,1,Jewish,1,Straight,1,1950,1,Best Director,A Letter to Three Wives,Joseph L. Mankiewicz
+670454461,FALSE,finalized,3,1,9-Dec-11,1911,1,White,1,Na,1,Straight,1,1950,1,Best Actor,All The King's Men,Broderick Crawford
+670454539,FALSE,finalized,3,1,7-Nov-03,1903,1,White,1,Na,1,Straight,1,1950,1,Best Supporting Actor,Twelve O'Clock High,Dean Jagger
+670454625,FALSE,finalized,3,1,1-Jul-16,1916,1,White,1,Na,1,Straight,1,1950,1,Best Actress,The Heiress,Olivia de Havilland
+670454704,FALSE,finalized,3,1,17-Mar-16,1916,1,White,1,Roman Catholic,1,Straight,1,1950,1,Best Supporting Actress,All the King's Men,Mercedes McCambridge
+670454374,TRUE,golden,82,1,5-Aug-06,1906,1,White,1,Na,1,Straight,1,1949,1,Best Director,The Treasure of the Sierra Madre,John Huston
+670454460,FALSE,finalized,3,1,22-May-07,1907,1,White,1,Na,1,Bisexual,1,1949,1,Best Actor,Hamlet,Laurence Olivier
+670454538,FALSE,finalized,3,1,1884,1884,1,White,1,Na,1,Straight,1,1949,1,Best Supporting Actor,The Treasure of the Sierra Madre,Walter Huston
+670454624,FALSE,finalized,3,1,5-Jan-17,1917,1,White,1,Roman Catholic,1,Straight,1,1949,1,Best Actress,Johnny Belinda,Jane Wyman
+670454703,FALSE,finalized,3,1,8-Mar-10,1910,1,White,1,Na,1,Straight,1,1949,1,Best Supporting Actress,Key Largo,Claire Trevor
+670972898,FALSE,finalized,3,1,5-Aug-06,1906,1,White,1,Na,1,Straight,1,1949,1,Best Director,The Treasure of the Sierra Madre,John Huston
+670454373,FALSE,finalized,3,1,7-Sep-09,1909,1,White,1,Na,1,Straight,1,1948,1,Best Director,Gentleman's Agreement,Elia Kazan
+670454459,FALSE,finalized,3,1,1891,1891,1,White,1,Na,1,Straight,1,1948,1,Best Actor,A Double Life,Ronald Colman
+670454537,FALSE,finalized,3,1,1875,1875,0.6667,White,1,Na,1,Na,1,1948,1,Best Supporting Actor,Miracle on 34th Street,Edmund Gwenn
+670454623,FALSE,finalized,3,1,6-Jan-13,1913,1,White,1,Roman Catholic,1,Straight,1,1948,1,Best Actress,The Farmer's Daughter,Loretta Young
+670454702,FALSE,finalized,3,1,29-Apr-17,1917,1,White,1,Na,0.6897,Straight,1,1948,1,Best Supporting Actress,Gentleman's Agreement,Celeste Holm
+670454372,FALSE,finalized,3,1,1-Jul-02,1902,1,White,1,Na,1,Straight,1,1947,1,Best Director,The Best Years of Our Lives,William Wyler
+670454458,FALSE,finalized,3,1,1897,1897,1,White,1,Na,1,Straight,1,1947,1,Best Actor,The Best Years of Our Lives,Fredric March
+670454536,FALSE,finalized,3,1,14-Jan-14,1914,1,White,1,Na,1,Straight,1,1947,1,Best Supporting Actor,The Best Years of Our Lives,Harold Russell
+670454622,FALSE,finalized,3,1,1-Jul-16,1916,1,White,1,Na,1,Straight,1,1947,1,Best Actress,To Each His Own,Olivia de Havilland
+670454701,FALSE,finalized,3,1,7-May-23,1923,1,White,1,Na,1,Straight,1,1947,1,Best Supporting Actress,The Razor's Edge,Anne Baxter
+670454371,FALSE,finalized,3,0.6667,22-Jun-06,1906,1,White,1,Jewish,1,Straight,1,1946,1,Best Director,The Lost Weekend,Billy Wilder
+670454457,FALSE,finalized,3,1,3-Jan-07,1907,1,White,1,Na,0.6897,Straight,1,1946,0.6897,Best Actor,The Lost Weekend,Ray Milland
+670454535,FALSE,finalized,3,1,2-Nov-01,1901,1,White,1,Na,1,Straight,1,1946,1,Best Supporting Actor,A Tree Grows in Brooklyn,James Dunn
+670454621,FALSE,finalized,3,1,23-Mar-05,1905,1,White,1,Christian Science,1,Bisexual,1,1946,1,Best Actress,Mildred Pierce,Joan Crawford
+670454700,TRUE,golden,76,1,25-Jun-03,1903,1,White,1,Na,1,Straight,1,1946,1,Best Supporting Actress,National Velvet,Anne Revere
+670944623,FALSE,finalized,3,1,25-Jun-03,1903,1,White,1,Na,1,Straight,1,1946,1,Best Supporting Actress,National Velvet,Anne Revere
+670454369,FALSE,finalized,3,1,3-Oct-1898,1898,1,White,1,Na,1,Straight,1,1945,1,Best Director,Going My Way,Leo McCarey
+670454456,FALSE,finalized,3,1,3-May-03,1903,1,White,1,Roman Catholic,0.6667,Straight,1,1945,1,Best Actor,Going My Way,Bing Crosby
+670454534,FALSE,finalized,3,1,10-Mar-1888,1888,1,White,1,Protestant,1,Na,1,1945,1,Best Supporting Actor,Going My Way,Barry Fitzgerald
+670454620,FALSE,finalized,3,1,29-Aug-15,1915,1,White,1,Na,1,Straight,1,1945,1,Best Actress,Gaslight,Ingrid Bergman
+670454699,FALSE,finalized,3,1,15-Aug-1879,1879,1,White,1,Roman Catholic,1,Straight,1,1945,1,Best Supporting Actress,None but the Lonely Heart,Ethel Barrymore
+670454368,FALSE,finalized,3,1,24-Dec-1886,1886,1,White,1,Na,1,Straight,1,1944,1,Best Director,Casablanca,Michael Curtiz
+670454455,FALSE,finalized,3,1,26-May-1887,1887,1,White,1,Na,1,Straight,1,1944,1,Best Actor,Watch on the Rhine,Paul Lukas
+670454533,FALSE,finalized,3,1,17-Jun-1877,1877,1,White,1,Na,1,Straight,1,1944,1,Best Supporting Actor,The More the Merrier,Charles Coburn
+670454619,FALSE,finalized,3,1,2-Mar-19,1919,1,White,1,Roman Catholic,1,Straight,1,1944,1,Best Actress,The Song of Bernadette,Jennifer Jones
+670454698,FALSE,finalized,3,1,17-Dec-00,1900,1,White,1,Na,1,Straight,1,1944,1,Best Supporting Actress,For Whom the Bell Tolls,Katina Paxinou
+670454367,FALSE,finalized,3,1,1-Jul-02,1902,1,White,1,Na,1,Straight,1,1943,1,Best Director,Mrs. Miniver,William Wyler
+670454454,FALSE,finalized,3,1,17-Jul-1899,1899,1,White,1,Roman Catholic,1,Straight,1,1943,1,Best Actor,Yankee Doodle Dandy,James Cagney
+670454532,TRUE,golden,90,1,13-Dec-10,1910,1,White,1,Na,1,Straight,1,1943,1,Best Supporting Actor,Johnny Eager,Van Heflin
+670454697,FALSE,finalized,3,1,27-Oct-18,1918,1,White,1,Na,1,Straight,0.6667,1943,1,Best Supporting Actress,Mrs. Miniver,Teresa Wright
+670944755,FALSE,finalized,3,1,13-Dec-10,1910,1,White,1,Na,1,Straight,1,1943,1,Best Supporting Actor,Johnny Eager,Van Heflin
+670454366,FALSE,finalized,3,1,1-Feb-1894,1894,1,White,1,Roman Catholic,1,Bisexual,1,1942,1,Best Director,How Green Was My Valley,John Ford
+670454453,FALSE,finalized,3,1,7-May-01,1901,1,White,1,Roman Catholic,1,Straight,1,1942,1,Best Actor,Sergeant York,Gary Cooper
+670454531,FALSE,finalized,3,1,27-Jul-1880,1890,1,White,1,Na,1,Straight,1,1942,1,Best Supporting Actor,How Green Was My Valley,Donald Crisp
+670454618,FALSE,finalized,3,1,29-Sep-04,1904,1,White,1,Na,1,Straight,1,1942,1,Best Actress,Mrs. Miniver,Greer Garson
+670454696,TRUE,golden,91,1,3-May-06,1906,1,White,1,Roman Catholic,1,Straight,1,1942,1,Best Supporting Actress,The Great Lie,Mary Astor
+670944316,FALSE,finalized,3,1,3-May-06,1906,1,White,1,Roman Catholic,1,Straight,1,1942,1,Best Supporting Actress,The Great Lie,Mary Astor
+670454365,FALSE,finalized,3,1,1-Feb-1894,1894,1,White,1,Roman Catholic,1,Bisexual,1,1941,1,Best Director,The Grapes of Wrath,John Ford
+670454452,FALSE,finalized,3,1,20-May-08,1908,1,White,1,Presbyterian,1,Straight,1,1941,1,Best Actor,The Philadelphia Story,Jimmy Stewart
+670454530,FALSE,finalized,3,1,25-Jul-1894,1894,1,White,1,Na,1,Straight,1,1941,1,Best Supporting Actor,The Westerner,Walter Brennan
+670454616,TRUE,golden,76,1,16-Jul-11,1911,1,White,1,Christian Science,0.9597,Straight,1,1941,1,Best Actress,Kitty Foyle,Ginger Rogers
+670454695,FALSE,finalized,3,1,15-Oct-1879,1879,1,White,1,Na,1,Straight,1,1941,1,Best Supporting Actress,The Grapes of Wrath,Jane Darwell
+670939613,FALSE,finalized,3,1,16-Jul-11,1911,1,White,1,Christian Science,1,Straight,1,1941,1,Best Actress,Kitty Foyle,Ginger Rogers
+670454364,FALSE,finalized,3,1,23-Feb-1883,1883,1,White,1,Na,1,Straight,1,1940,1,Best Director,Gone with the Wind,Victor Fleming
+670454451,FALSE,finalized,3,1,18-Mar-05,1905,1,White,1,Na,1,Straight,1,1940,1,Best Actor,Goodbye Mr. Chips,Robert Donat
+670454529,FALSE,finalized,3,1,11-Jul-1892,1892,1,White,1,Na,1,Straight,1,1940,1,Best Supporting Actor,Stagecoach,Thomas Mitchell
+670454615,FALSE,finalized,3,1,5-Nov-13,1913,1,White,1,Roman Catholic,1,Straight,1,1940,1,Best Actress,Gone with the Wind,Vivien Leigh
+670454617,FALSE,finalized,3,1,22-Oct-17,1917,1,White,1,Na,1,Straight,1,1940,1,Best Actress,Suspicion,Joan Fontaine
+670454694,FALSE,finalized,3,1,10-Jun-1893,1893,1,Black,1,Christian,1,Matter of Dispute,1,1940,1,Best Supporting Actress,Gone with the Wind,Hattie McDaniel
+670454363,FALSE,finalized,3,1,18-May-1897,1897,1,White,1,Roman Catholic,1,Straight,1,1939,1,Best Director,You Can't Take It with You,Frank Capra
+670454450,FALSE,finalized,3,1,5-Apr-00,1900,1,White,1,Roman Catholic,1,Straight,1,1939,1,Best Actor,Boys Town,Spencer Tracy
+670454528,FALSE,finalized,3,1,25-Jul-1894,1894,1,White,1,Na,1,Straight,1,1939,1,Best Supporting Actor,Kentucky,Walter Brennan
+670454614,FALSE,finalized,3,1,5-Apr-08,1908,1,White,1,Na,1,Straight,1,1939,1,Best Actress,Jezebel,Bette Davis
+670454693,FALSE,finalized,3,1,7-Dec-1891,1891,1,White,1,Na,1,Straight,1,1939,1,Best Supporting Actress,Jezebel,Fay Bainter
+670454362,FALSE,finalized,3,1,3-Oct-1898,1898,1,White,1,Na,1,Straight,1,1938,1,Best Director,The Awful Truth,Leo McCarey
+670454449,FALSE,finalized,3,1,5-Apr-00,1900,1,White,1,Roman Catholic,1,Straight,1,1938,1,Best Actor,Captains Courageous,Spencer Tracy
+670454526,FALSE,finalized,3,1,25-Jul-1894,1894,1,White,1,Na,1,Straight,1,1938,1,Best Supporting Actor,Come and Get It,Walter Brennan
+670454527,FALSE,finalized,3,1,22-Mar-1896,1896,1,White,1,Na,1,Straight,1,1938,1,Best Supporting Actor,The Life of Emile Zola,Joseph Schildkraut
+670454613,FALSE,finalized,3,1,12-Jan-10,1910,1,White,1,Jewish,1,Straight,1,1938,1,Best Actress,The Good Earth,Luise Rainer
+670454692,FALSE,finalized,3,1,2-Nov-1892,1892,1,White,1,Na,1,Straight,1,1938,1,Best Supporting Actress,In Old Chicago,Alice Brady
+670454361,FALSE,finalized,3,1,18-May-1897,1897,1,White,1,Roman Catholic,1,Straight,1,1937,1,Best Director,Mr. Deeds Goes to Town,Frank Capra
+670454448,FALSE,finalized,3,1,22-Sep-1895,1895,1,White,1,Jewish,1,Straight,1,1937,1,Best Actor,The Story of Louis Pasteur,Paul Muni
+670454612,FALSE,finalized,3,1,12-Jan-10,1910,1,White,1,Jewish,1,Straight,1,1937,1,Best Actress,The Great Ziegfeld,Luise Rainer
+670454691,FALSE,finalized,3,1,15-Feb-1899,1899,1,White,1,Na,1,Straight,1,1937,1,Best Supporting Actress,Anthony Adverse,Gale Sondergaard
+670454360,FALSE,finalized,3,1,1-Feb-1894,1894,1,White,1,Roman Catholic,1,Bisexual,1,1936,1,Best Director,The Informer,John Ford
+670454447,FALSE,finalized,3,1,11-Dec-1883,1883,1,White,1,Anglican/episcopalian,1,Straight,1,1936,1,Best Actor,The Informer,Victor McLaglen
+670454611,FALSE,finalized,3,1,5-Apr-08,1908,1,White,1,Na,1,Straight,1,1936,1,Best Actress,Dangerous,Bette Davis
+670454359,FALSE,finalized,3,1,18-May-1897,1897,1,White,1,Roman Catholic,1,Straight,1,1935,1,Best Director,It Happened One Night,Frank Capra
+670454446,FALSE,finalized,3,1,1-Feb-01,1901,1,White,1,Na,1,Straight,1,1935,1,Best Actor,It Happened One Night,Clark Gable
+670454610,FALSE,finalized,3,1,13-Sep-03,1903,1,White,1,Na,1,Straight,1,1935,1,Best Actress,It Happened One Night,Claudette Colbert
+670454358,FALSE,finalized,3,1,2-Feb-1886,1886,1,White,1,Na,1,Straight,1,1934,1,Best Director,Cavalcade,Frank Lloyd
+670454445,FALSE,finalized,3,1,1-Jul-1899,1899,1,White,1,Roman Catholic,1,Gay,1,1934,1,Best Actor,The Private Life of Henry VIII,Charles Laughton
+670454609,FALSE,finalized,3,1,12-May-07,1907,1,White,1,Atheist,1,Bisexual,1,1934,1,Best Actress,Morning Glory,Katharine Hepburn
+670454357,FALSE,finalized,3,1,23-Apr-1894,1894,1,White,1,Roman Catholic,1,Straight,1,1933,1,Best Director,Bad Girl,Frank Borzage
+670454356,FALSE,finalized,3,1,23-Feb-1899,1899,1,White,1,Na,1,Straight,1,1932,1,Best Director,Skippy,Norman Taurog
+670454444,FALSE,finalized,3,1,1-Apr-1885,1885,1,White,1,Na,1,Straight,1,1932,1,Best Actor,The Champ,Wallace Beery
+670454608,FALSE,finalized,3,1,10-Oct-00,1900,1,White,1,Na,1,Straight,1,1932,1,Best Actress,The Sin of Madelon Claudet,Helen Hayes
+670454355,FALSE,finalized,3,1,30-Sep-1895,1895,1,White,1,Na,1,Straight,1,1931,0.6667,Best Director,All Quiet on the Western Front,Lewis Milestone
+670454443,FALSE,finalized,3,1,28-Apr-1878,1868,1,White,1,Roman Catholic,1,Straight,1,1931,1,Best Actor,A Free Soul,Lionel Barrymore
+670454607,FALSE,finalized,3,1,2-Nov-1868,1868,1,White,1,Na,1,Straight,1,1931,1,Best Actress,Min and Bill,Marie Dressler
+670454354,FALSE,finalized,3,1,2-Feb-1886,1886,1,White,1,Na,1,Straight,0.6842,1930,1,Best Director,The Divine Lady,Frank Lloyd
+670454441,FALSE,finalized,3,1,29-Mar-1889,1889,1,White,1,Na,1,Straight,1,1930,1,Best Actor,In Old Arizona,Warner Baxter
+670454442,FALSE,finalized,3,1,10-Apr-1868,1868,1,White,1,Na,0.6897,Straight,1,1930,1,Best Actor,Desraeli,George Arliss
+670454605,FALSE,finalized,3,1,8-Apr-1892,1892,1,White,1,Na,1,Straight,1,1930,1,Best Actress,Coquette,Mary Pickford
+670454606,FALSE,finalized,3,1,10-Aug-02,1902,1,White,1,Na,1,Straight,1,1930,1,Best Actress,The Divorcee,Norma Shearer
+670454440,FALSE,finalized,3,1,23-Jul-1884,1884,1,White,1,Na,1,Bisexual,1,1929,1,Best Actor,The Last Command,Emil Jannings
+670454604,FALSE,finalized,3,1,6-Oct-06,1906,1,White,1,Na,1,Straight,1,1929,1,Best Actress,7th Heaven,Janet Gaynor
+670454353,FALSE,finalized,3,1,30-Sep-1895,1895,1,White,1,Na,1,Straight,1,1927,1,Best Director,Two Arabian Knights,Lewis Milestone

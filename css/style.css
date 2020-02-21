@@ -1,1 +1,61 @@
 .bar { fill: steelblue; }
+
+body{
+    width: 1000px;
+    margin: 10px auto;
+    color: black;
+    font-weight:bold;
+}
+
+#Content{
+    width: 1000px;
+    margin: 10px auto;
+}
+/* 
+#image1{
+    position: fixed;
+    left: 10px;
+    right: 300px;
+    top: 150px;
+}
+#image2{
+    position: fixed;
+    left: 1250px;
+    right: 10px;
+    top: 150px;
+} */
+
+.dropdown {
+    background-color: lightblue;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: black;
+    cursor: pointer;
+    width: 1000px;
+    margin: 10px auto;
+  }
+
+  #selectButton{
+    border: red;
+    width: auto;
+    margin: auto;
+    background-color: goldenrod;
+    color: white
+  }
+
+  /*
+  .dropdown {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+
+  }
+
+  
+  
+  .show {display: block;}*/
